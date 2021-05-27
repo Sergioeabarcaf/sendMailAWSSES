@@ -1,0 +1,25 @@
+{
+  "name": "sendmailawsses",
+  "version": "1.0.0",
+  "description": "Send mail using AWS Lambda and SES",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergioeabarcaf/sendMailAWSSES.git"
+  },
+  "keywords": [
+    "mail",
+    "Lambda",
+    "SES",
+    "nodeJS"
+  ],
+  "author": "sergioeabarcaf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sergioeabarcaf/sendMailAWSSES/issues"
+  },
+  "homepage": "https://github.com/Sergioeabarcaf/sendMailAWSSES#readme"
+}
